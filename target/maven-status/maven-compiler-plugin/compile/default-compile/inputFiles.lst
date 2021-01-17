@@ -1,0 +1,16 @@
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\services\proxy\BeerInventoryService.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\services\BeerService.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\web\controller\AppControllerAdvice.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\repositories\BeerRepository.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\web\controller\BeerController.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\services\proxy\model\BeerInventoryDto.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\web\mappers\BeerMapper.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\MsscBeerServiceApplication.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\web\model\BeerDto.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\services\BeerServiceImpl.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\bootstrap\BeerLoader.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\domain\Beer.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\services\proxy\BeerInventoryServiceImpl.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\web\mappers\BeerMapperDecorator.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\web\model\BeerStyleEnum.java
+C:\java\workspace\for_eclipse\mssc-beer-service1\src\main\java\guru\springframework\msscbeerservice\web\mappers\DateMapper.java
